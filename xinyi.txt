@@ -1,0 +1,17 @@
+git init
+	Initialises new repository
+
+git add 
+	Move to staging folder
+
+git commit 
+	Commit and note the changes in repository
+	
+git log 
+	______
+	
+git status
+	______
+	
+git diff
+	Shows the difference between the file saved in working folder and staging folder
